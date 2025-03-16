@@ -1,0 +1,63 @@
+[
+    {
+      "alertNo": 1,
+      "deviceName": "TemperatureSensor",
+      "deviceTag": "TS-001",
+      "alertType": "Overheat",
+      "date": "2025-01-25",
+      "triggerTime": "14:32:00",
+      "repeatAlert": false,
+      "status": true
+    },
+    {
+      "alertNo": 2,
+      "deviceName": "HumiditySensor",
+      "deviceTag": "HS-024",
+      "alertType": "High Humidity",
+      "date": "2025-01-24",
+      "triggerTime": "09:15:45",
+      "repeatAlert": true,
+      "status": true
+    },
+    {
+      "alertNo": 3,
+      "deviceName": "MotionDetector",
+      "deviceTag": "MD-109",
+      "alertType": "Unauthorized Movement",
+      "date": "2025-01-23",
+      "triggerTime": "23:45:10",
+      "repeatAlert": false,
+      "status": true
+    },
+    {
+      "alertNo": 4,
+      "deviceName": "SmokeDetector",
+      "deviceTag": "SD-056",
+      "alertType": "Smoke Detected",
+      "date": "2025-01-22",
+      "triggerTime": "18:20:30",
+      "repeatAlert": true,
+      "status": true
+    },
+    {
+      "alertNo": 5,
+      "deviceName": "PressureMonitor",
+      "deviceTag": "PM-072",
+      "alertType": "Pressure Drop",
+      "date": "2025-01-21",
+      "triggerTime": "11:10:05",
+      "repeatAlert": false,
+      "status": true
+    },
+    {
+      "alertNo": 6,
+      "deviceName": "GasLeakSensor",
+      "deviceTag": "GLS-303",
+      "alertType": "Gas Leak Detected",
+      "date": "2025-01-20",
+      "triggerTime": "02:00:00",
+      "repeatAlert": true,
+      "status": true
+    }
+  ]
+  
